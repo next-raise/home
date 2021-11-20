@@ -11,9 +11,9 @@ It's a way of sharing your growth and success with others. It is giving a substa
 ```markdown
 Based on an example
 
-1. You make *10k* a month and you receive a raise of *2k*, effective from March
-2. So in February you get *10k* on your bank account
-3. And in March you get *12k* on your bank account
+1. You make 10k a month and you receive a raise of 2k, effective from March
+2. So in February you get 10k on your bank account
+3. And in March you get 12k on your bank account
 4. In March you wire 2k to the charity of your choice, you have 10k for own expenses as before
 6. In April you get 12k on your bank account, and have 12k for own expenses 💰
 7. See you upon your next raise, fingers crossed for 14k!
@@ -35,4 +35,4 @@ But you can also help by contributing to expanding this open-source operation. S
 
 ### Support or Contact
 
-If you'd like to help, reach me on LinkedIn https://www.linkedin.com/in/kamil-puk/
+If you'd like to help, reach me on [LinkedIn](https://www.linkedin.com/in/kamil-puk/)
