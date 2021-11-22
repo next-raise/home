@@ -1,6 +1,6 @@
 ## Welcome to the Next Raise pledge
 
-🛠 Disclaimer: This whole thing is in a super early stage, you can help if you'd like. 
+🛠  Disclaimer: This whole thing is in a super early stage, you can help if you'd like. 
 
 ### What is the pledge
 
@@ -19,11 +19,11 @@ Based on an example
 
 ### Why do we do it?
 
-💙 We acknowledge that by being in the world of IT, we are lucky to have a demanding, but well-paid jobs, where salary raise is frequent. 
+💙  We acknowledge that by being in the world of IT, we are lucky to have a demanding, but well-paid jobs, where salary raise is frequent. 
 
-🛠 We see that there is a large salary gap between IT and some other sectors and want to share our success. 
+🛠  We see that there is a large salary gap between IT and some other sectors and want to share our success. 
 
-⏳ The pledge is a way of sharing our growth and success with others. It is giving a substantial gift just by delaying the reward, not taking it away from oneself.
+⏳  The pledge is a way of sharing our growth and success with others. It is giving a substantial gift just by delaying the reward, not taking it away from oneself.
 
 
 ### How can I help?
@@ -38,4 +38,4 @@ But you can also help by contributing to expanding this open-source operation. S
 
 ### Support or Contact
 
-📬 If you'd like to help, reach me on [LinkedIn](https://www.linkedin.com/in/kamil-puk/)
+📬  If you'd like to help, reach me on [LinkedIn](https://www.linkedin.com/in/kamil-puk/)
