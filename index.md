@@ -20,7 +20,9 @@ Based on an example
 ### Why do we do it?
 
 💙 We acknowledge that by being in the world of IT, we are lucky to have a demanding, but well-paid jobs, where salary raise is frequent. 
+
 🛠 We see that there is a large salary gap between IT and some other sectors and want to share our success. 
+
 ⏳ The pledge is a way of sharing our growth and success with others. It is giving a substantial gift just by delaying the reward, not taking it away from oneself.
 
 
