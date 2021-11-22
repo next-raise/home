@@ -1,10 +1,10 @@
 ## Welcome to the Next Raise pledge
 
-🛠  Disclaimer: This whole thing is in a super early stage, you can help if you'd like. 
+🛠  **Disclaimer**: This whole thing is in a super early stage, you can help if you'd like. 
 
 ### What is the pledge
 
-Just a promise that we will donate the amount of our next salary raise in the first month after we get the raise. That's all.
+🤝  Just a promise that we will donate the amount of our next salary raise in the first month after we get the raise. That's all.
 
 ```markdown
 Based on an example
@@ -28,13 +28,15 @@ Based on an example
 
 ### How can I help?
 
-You can simply wire the money to an organisation that needs it 💸  Maybe post on social media and link to this site?
+💸  You can simply wire the money to an organisation that needs it.
 
-But you can also help by contributing to expanding this open-source operation. So far there are a few ideas what we can do to grow this to have a bigger impact:
-- [ ] Figure out a way we can use GitHub to improve collaboration on this project.
-- [ ] Figure out a neat way for people to be able to commit to the pledge and somehow _write their name on the wall_, create a social proof and a snowball effect.
-- [ ] Figure out a way we can market this nicely in social media (profile picture sticker generator?).
-- [ ] Create a list of verified charities that are worth donating to in some countries.
+🤳  Maybe post on social media and link to this site? IDK.
+
+🛠  You can also help by contributing to expanding this open-source operation. So far there are a few ideas what we can do to grow this to have a bigger impact:
+- [ ]  Figure out a way we can use GitHub to improve collaboration on this project.
+- [ ]  Figure out a neat way for people to be able to commit to the pledge and somehow _write their name on the wall_, create a social proof and a snowball effect.
+- [ ]  Figure out a way we can market this nicely in social media (profile picture sticker generator?).
+- [ ]  Create a list of verified charities that are worth donating to in some countries.
 
 ### Support or Contact
 
