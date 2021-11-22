@@ -7,8 +7,7 @@
 🤝  Just a promise that we will donate the amount of our next salary raise in the first month after we get the raise. That's all.
 
 ```markdown
-Based on an example
-
+Based on an example:
 1. I make 10k a month and I receive a raise of 2k, effective from March
 2. So in February I get 10k on my bank account, as usual.
 3. And in March I will get 12k on my bank account
@@ -33,10 +32,12 @@ Based on an example
 🤳  Maybe post on social media and link to this site? IDK.
 
 🛠  You can also help by contributing to expanding this open-source operation. So far there are a few ideas what we can do to grow this to have a bigger impact:
-- [ ]  Figure out a way we can use GitHub to improve collaboration on this project.
-- [ ]  Figure out a neat way for people to be able to commit to the pledge and somehow _write their name on the wall_, create a social proof and a snowball effect.
-- [ ]  Figure out a way we can market this nicely in social media (profile picture sticker generator?).
-- [ ]  Create a list of verified charities that are worth donating to in some countries.
+```markdown
+1. Figure out a way we can use GitHub to improve collaboration on this project.
+2. Figure out a neat way for people to be able to commit to the pledge and somehow _write their name on the wall_, create a social proof and a snowball effect.
+3. Figure out a way we can market this nicely in social media (profile picture sticker generator?).
+4. Create a list of verified charities that are worth donating to in some countries.
+```
 
 ### Support or Contact
 
