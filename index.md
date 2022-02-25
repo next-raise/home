@@ -27,16 +27,10 @@ Based on an example:
 
 ### How can I help?
 
-💸  You can simply wire the money to an organisation that needs it.
+💸  You can simply wire the money to an organisation that needs it. As of late February 2022, I highly encourage [this list for supporting Ukraine](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/) 🇺🇦 
 
-🤳  Maybe post on social media and link to this site? IDK.
+🖥  Maybe post on social media and link to this site?
 
-🛠  You can also help by contributing to expanding this open-source operation. So far there are a few ideas what we can do to grow this to have a bigger impact:
-```markdown
-1. Figure out a way we can use GitHub to improve collaboration on this project.
-2. Figure out a neat way for people to be able to commit to the pledge and somehow _write their name on the wall_, create a social proof and a snowball effect.
-3. Figure out a way we can market this nicely in social media (profile picture sticker generator?).
-4. Create a list of verified charities that are worth donating to in some countries.
 ```
 
 ### Support or Contact
